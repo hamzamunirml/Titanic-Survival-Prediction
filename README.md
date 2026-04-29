@@ -1,5 +1,6 @@
 ## 🚢 Titanic Survival Prediction
 <img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/b9f92666-3ab1-49ea-8c85-b1c5b99e744d" />
+
 ### 📌 Overview
 
 This project applies Machine Learning techniques to predict whether a passenger survived the Titanic disaster. It is based on historical passenger data and uses classification algorithms to make predictions.
